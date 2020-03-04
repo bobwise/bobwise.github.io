@@ -1,0 +1,12 @@
+body {
+    background-color: #222;
+    color: #fff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a, a:visited { color: #fff; }
+
+li {
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+}
